@@ -19,8 +19,8 @@ average
 end
 
 def modulo(num1, num2)
-  
-
+  puts differance = num1 % num2
+  differance
 end
 
 def square_root(num)
